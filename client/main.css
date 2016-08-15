@@ -11,6 +11,12 @@ body {
   background: #eee;
   color: #666666; }
 
+h1 {
+  font-size: 32px;
+  font-family: Palatino, 'Palatino Linotype', serif;
+  color: rgb(216,218,190);
+}
+
 #main {
   position: relative;
 }
